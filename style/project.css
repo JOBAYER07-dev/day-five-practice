@@ -131,7 +131,8 @@
 #last {
   padding-top: 130px;
   padding-bottom: 130px;
-  margin: 0px 230px;
+  margin-left: 230px;
+  margin-right: 230px;
 }
 
 #last .last-container {
